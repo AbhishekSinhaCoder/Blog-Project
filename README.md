@@ -1,19 +1,18 @@
 # Blog-Project
-Building complete blog application using React
-What are some app functionalities?
+This is complete blog application build using React.
+These are some of the app functionalities:
+-  All Posts
 
-⦁ All Posts
+-  Featured Posts
 
-⦁ Featured Posts
+-  Trending Posts
 
-⦁ Trending Posts
+-  Fresh Stories
 
-⦁ Fresh Stories
+-  Commenting
 
-⦁ Commenting
+-  Single Post Page
 
-⦁ Single Post Page
+-  Posts by Category
 
-⦁ Posts by Category
-
-⦁ 404 Page
+-  404 Page
